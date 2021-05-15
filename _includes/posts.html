@@ -1,8 +1,9 @@
+{% include base.html %}
 {% for post in include.posts %}
 
 <div class="card border-0">
     <div class="card-body">
-        <a href="{{ post.url }}"><h5 class="card-title">{{ post.title }}</h5></a>
+        <a href="{{base}}{{ post.url }}"><h5 class="card-title">{{ post.title }}</h5></a>
         <p class="card-subtitle mb-2 text-muted">{{ post.date | date: '%d %B %Y' }}</p>
         <p class="card-text">{{ post.description }}</p>
     </div>
