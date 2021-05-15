@@ -11,7 +11,7 @@ navlinks:
   uri: /education
 
 ---
-<!doctype html>
+<!doctype html>{% include base.html %}
 <html lang="en" class="h-100">
     <head>
         <meta charset="utf-8" />
@@ -42,7 +42,7 @@ navlinks:
                     <ul class="navbar-nav mr-auto">
                         {% for link in layout.navlinks %}
                         <li class="nav-item">
-                            <a class="nav-link" href="{{ link.uri }}">{{ link.title }}</a>
+                            <a class="nav-link" href="{{base}}{{ link.uri }}">{{ link.title }}</a>
                         </li>
                         {% endfor %}
                     </ul>
