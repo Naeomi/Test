@@ -30,25 +30,6 @@ navlinks:
         </style>
     </head>
     <body class="d-flex flex-column h-100">
-        <header>
-            <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
-                <a class="navbar-brand" href="{{base}}/">{{ site.name }}</a>
-
-                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-
-                <div class="collapse navbar-collapse" id="navbarCollapse">
-                    <ul class="navbar-nav mr-auto">
-                        {% for link in layout.navlinks %}
-                        <li class="nav-item">
-                            <a class="nav-link" href="{{base}}{{ link.uri }}">{{ link.title }}</a>
-                        </li>
-                        {% endfor %}
-                    </ul>
-                </div>
-            </nav>
-        </header>
 
         <main role="main" class="flex-shrink-0">
             {{ content }}
@@ -56,6 +37,7 @@ navlinks:
 
         <footer class="footer mt-auto py-3">
             <div class="container">
+                <a href="https://www.linkedin.com/in/naeomi-pluim-522a9949">linkedin</a>
                 <a href="https://github.com/Naeomi">github</a>
             </div>
         </footer>

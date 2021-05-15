@@ -4,5 +4,3 @@ version: 0.1
 
 exclude: 
 - "*.bash"
-
-theme: jekyll-theme-cayman
