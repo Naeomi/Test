@@ -1,5 +1,6 @@
 ---
-layout: home
+layout: default
+
 title: Travel
 category: travel
 
@@ -20,9 +21,10 @@ regions:
 - title: Europe
 
 ---
-
+<div class="row">
 <div class="container map-container" style="height: 300px;">
   <iframe src="https://maps.google.com/maps?center=17.9187655,66.4819598&t=&z=2&ie=UTF8&iwloc=&output=embed" frameborder="0" style="border:0; width:100%; height:300px;" loading="lazy" allowfullscreen></iframe>
+</div>
 </div>
 
 {% for region in page.regions %}

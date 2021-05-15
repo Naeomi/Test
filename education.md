@@ -1,5 +1,6 @@
 ---
-layout: home
+layout: default
+
 title: Education
 category: education
 ---

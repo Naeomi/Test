@@ -1,22 +1,18 @@
 ---
-layout: wrapper-home
+layout: wrapper-bootstrap
 ---
 {% include base.html %}
+
+<div class="row">
+<div class="container">
 
   <div class="px-4 py-0 my-0 text-center">
     <img class="d-block mx-auto mb-4" src="http://2.bp.blogspot.com/-HuclQxIy_ZM/UXwdAlYhr6I/AAAAAAAAAEU/SFLlZW17FiM/s1600/427783_10151858661594167_496168328_n.jpg" alt="" style="width:25%; height:25%;">
     <h1 class="display-5 fw-bold">Naeomi Pluim</h1>
     <div class="col-lg-6 mx-auto">
       <p class="lead mb-4">Something about Naeomi.</p>
-      <div class="d-grid gap-2 d-sm-flex justify-content-sm-center">
-        <button type="button" class="btn btn-primary btn-lg px-4 gap-3">Travel</button> &nbsp;
-        <button type="button" class="btn btn-primary btn-lg px-4">Creative</button> &nbsp;
-        <button type="button" class="btn btn-primary btn-lg px-4">Education</button>
-      </div>
     </div>
   </div>
-
-
 
   <div class="container px-4 py-o" id="featured-3">
     <div class="row g-4 py-2 row-cols-1 row-cols-lg-3">
@@ -61,3 +57,6 @@ layout: wrapper-home
       </div>
     </div>
   </div>
+
+</div>
+</div>
