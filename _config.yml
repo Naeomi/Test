@@ -1,0 +1,6 @@
+name: Naeomi Test
+description: Testing Projects
+version: 0.1
+
+exclude: 
+- "*.bash"
