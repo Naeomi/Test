@@ -10,7 +10,7 @@ layout: wrapper-bootstrap
     <img class="d-block mx-auto mb-4" src="http://2.bp.blogspot.com/-HuclQxIy_ZM/UXwdAlYhr6I/AAAAAAAAAEU/SFLlZW17FiM/s1600/427783_10151858661594167_496168328_n.jpg" alt="" style="width:25%; height:25%;">
     <h1 class="display-5 fw-bold">Naeomi Pluim</h1>
     <div class="col-lg-6 mx-auto">
-      <p class="lead mb-4">Something about Naeomi.</p>
+      <p class="lead mb-4">Planning to see the world one step at a time.</p>
     </div>
   </div>
 
