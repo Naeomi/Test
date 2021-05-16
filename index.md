@@ -23,7 +23,7 @@ layout: wrapper-bootstrap
         <a href="{{base}}/travel">
         <h2>Travel</h2>
         </a>
-        <p>Paragraph of text beneath the heading to explain the heading. We'll add onto it with another sentence and probably just keep going until we run out of words.</p>
+        <p>Finding the next place to explore is easy, getting there and the planning of the trip is the fun part, but coming home is always the hardest! See where we have been exploring and what we have seen.</p>
         <a href="{{base}}/travel" class="icon-link">
           Find out more...
           <svg class="bi" width="1em" height="1em"><use xlink:href="#chevron-right"/></svg>
@@ -36,7 +36,7 @@ layout: wrapper-bootstrap
         <a href="{{base}}/creative" class="icon-link">
         <h2>Creative</h2>
         </a>
-        <p>Paragraph of text beneath the heading to explain the heading. We'll add onto it with another sentence and probably just keep going until we run out of words.</p>
+        <p>What do I do in my spare time?</p>
         <a href="{{base}}/creative" class="icon-link">
           Find out more...
           <svg class="bi" width="1em" height="1em"><use xlink:href="#chevron-right"/></svg>
@@ -49,7 +49,7 @@ layout: wrapper-bootstrap
         <a href="{{base}}/education" class="icon-link">
         <h2>Education</h2>
         </a>
-        <p>Education text</p>
+        <p>As a teacher I have a lot of expreience working with children in a variety of different countries. My personal reflections and information can be found here.</p>
         <a href="{{base}}/education" class="icon-link">
           Find out more...
           <svg class="bi" width="1em" height="1em"><use xlink:href="#chevron-right"/></svg>
