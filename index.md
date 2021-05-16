@@ -29,7 +29,7 @@ layout: wrapper-bootstrap
       </div>
       <div class="feature col">
         <a href="{{base}}/education.html" class="icon-link"><h2>Education</h2></a>
-        <p>As a teacher I have a lot of expreience working with children in a variety of different countries. My personal reflections and information can be found here.</p>
+        <p>As a teacher I have a lot of experience working with children in a variety of different countries. My personal reflections and information can be found here.</p>
         <a href="{{base}}/education.html" class="icon-link">Find out more...</a>
       </div>
     </div>
