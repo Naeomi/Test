@@ -1,8 +1,8 @@
 ---
 layout: default
 
-title: Creative
-category: creative
+title: Investment
+category: investment
 ---
 
 {% assign posts = site.tags[page.category] %}
