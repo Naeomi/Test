@@ -23,9 +23,9 @@ layout: wrapper-bootstrap
         <a href="{{base}}/travel.html" class="icon-link">Find out more...</a>
       </div>
       <div class="feature col">
-        <a href="{{base}}/creative.html" class="icon-link"><h2>Creative</h2></a>
-        <p>What do I do in my spare time?</p>
-        <a href="{{base}}/creative.html" class="icon-link">Find out more...</a>
+        <a href="{{base}}/investment.html" class="icon-link"><h2>Investment</h2></a>
+        <p>Exploring the share market and what it is.</p>
+        <a href="{{base}}/investment.html" class="icon-link">Find out more...</a>
       </div>
       <div class="feature col">
         <a href="{{base}}/education.html" class="icon-link"><h2>Education</h2></a>
