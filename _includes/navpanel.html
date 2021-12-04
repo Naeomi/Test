@@ -1,0 +1,7 @@
+{%- if include.nav -%}
+<nav class ="navbar float-md-left card m-2">
+    <ul class ="nav flex-column nav-pills">
+{%- include {{ include.nav }} -%}
+    </ul>
+</nav>
+{%- endif -%}
