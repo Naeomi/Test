@@ -2,6 +2,8 @@
 layout: default
 ---
 
+{%- include navpanel.html nav=page.navpanel -%}
+
 {{ content }}
 
 {% include links-groups.html enablelinkgroups=page.enablelinkgroups links=page.links %}
